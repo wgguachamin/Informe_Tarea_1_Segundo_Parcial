@@ -67,3 +67,9 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 6. BIBLIOGRAFÍA
 
+-	Cárdenas, J. (11 de Mayo de 2020). Obtenido de https://leerciencia.net/circuito-electrico-serie-paralelo-y-mixto/
+-	Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
+-	Obando, L. (10 de Noviembre de 2019). Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
+-	Obando, L. (10 de Noviembre de 2019). Obtenido de https://dademuch.com/2019/11/10/teorema-de-norton-analisis-de-circuitos-electricos/
+-	Torres, H. (30 de Julio de 2018). Obtenido de https://hetpro-store.com/TUTORIALES/divisor-de-voltaje/
+-	Zapata, F. (21 de Mayo de 2021). Obtenido de https://www.lifeder.com/circuito-electrico-mixto/
