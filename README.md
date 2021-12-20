@@ -13,6 +13,16 @@ Conocer los circuitos en serie-paralelo y los teoremas de  circuitos y conversio
 
 2. MARCO TEÓRICO
 
+2.1. IDENTIFICACIÓN DE RELACIONES EN SERIE - PARALELO
+
+Un circuito en serie-paralelo consiste en combinaciones de trayectorias para corriente dispuestas tanto en serie como en paralelo.
+
+![image](https://user-images.githubusercontent.com/94008521/146802834-fbe87465-4172-4d2d-bbdb-b9f600ba535a.png)
+
+2.2. ANALISIS DE CIRCUITOS RESISTIVOS ES SERIE - PARALELO
+
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 4. VIDEO
