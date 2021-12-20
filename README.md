@@ -1,4 +1,4 @@
-Informe Tarea 1
+                                                                       INFORME DE LA TAREA 1
 1. OBJETIVOS
 
 1.1. OBJETIVO GENERAL
