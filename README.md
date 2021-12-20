@@ -21,6 +21,10 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 2.2. ANALISIS DE CIRCUITOS RESISTIVOS ES SERIE - PARALELO
 
+![Mapas mentales con líneas (1)](https://user-images.githubusercontent.com/94008521/146809074-0433abf3-ede2-4222-8afa-1043eda1d394.png)
+
+2.3. DIVISORES DE VOLTAJE CON CARGAS RESISTIVAS
+
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
