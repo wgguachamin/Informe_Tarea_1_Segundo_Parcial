@@ -37,6 +37,12 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 2.6. EL PUENTE-WHEATSTONE
 
+![Diagrama en blanco (2)](https://user-images.githubusercontent.com/94008521/146819619-b0ca19df-25b3-47f6-80d6-0c3f34361f5c.png)
+
+2.7. LA FUENTE DE VOLTAJE DE CD
+
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 4. VIDEO
