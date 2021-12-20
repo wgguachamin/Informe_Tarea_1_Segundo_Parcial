@@ -45,6 +45,10 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 2.8. EL TEOREMA DE SUPERPOSICIÓN 
 
+![Diagrama de actividades (1)](https://user-images.githubusercontent.com/94008521/146830313-b33f3ff2-54b0-41b1-ab2e-6e1222c1e69b.png)
+
+2.9. TEOREMAS THEVENIN, NORTON Y TRANSFERENCIA DE POTENCIA MÁXIMA
+
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
