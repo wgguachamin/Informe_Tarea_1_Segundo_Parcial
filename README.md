@@ -49,7 +49,9 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 2.9. TEOREMAS THEVENIN, NORTON Y TRANSFERENCIA DE POTENCIA MÁXIMA
 
+![Mapa conceptual](https://user-images.githubusercontent.com/94008521/146834512-9cf68c7c-c4d1-498c-be6d-7137d6ac2b2b.png)
 
+2.10. CONVERSIONES DELTA A Y ( A Y) Y Y A DELTA (Y A ) 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
