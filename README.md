@@ -61,4 +61,9 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 5. CONCLUSIONES
 
+- Con referencia a los circuitos serie - paralelo se tiene que para realizar un análisis correcto se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, posterior a esto se puede aplicar los conocimientos antes adquiridos para calcular la resistencia, corriente y voltaje totales. Por otro lado para analizar los divisores de voltaje se debe de tener en cuenta , que estos producen un voltaje de salida que su valor dependerá de la forma en que los empleemos, en otras palabras determinar si el divisor es bipolar o se basa en la corriente de carga y la corriente remanente.
+- Las conversiones de fuente dentro de los circuitos son de dos tipos, el primero la conversión de una fuente de voltaje en un fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero.  El segundo tipo es la conversión de una fuente de corriente en una fuente de voltaje, en este caso la corriente de la fuente se debe de multiplicar por la resistencia interna de la fuente, que es la mayoría de los casos se le considera infinita.
+- El teorema de superposición para el análisis de circuitos serie - paralelo es efectivo porque permite reducir un circuito grande en una más simple, con esto se facilita el análisis del circuito y se puede implementar cualquier método conocido anteriormente para poder calcular intensidad de corriente, el voltaje total del circuito y la resistencia total. Cabe recalcar que aqui implementamos las conversiones de fuentes para poder reducir en circuito, también el divisor de corriente en la mayoría de casos y se calculan las resistencias equivalentes aplicando las formulas de resistencia total para circuitos tanto en serie como en paralelo.
+
 6. BIBLIOGRAFÍA
+
