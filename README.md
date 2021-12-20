@@ -39,7 +39,11 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 ![Diagrama en blanco (2)](https://user-images.githubusercontent.com/94008521/146819619-b0ca19df-25b3-47f6-80d6-0c3f34361f5c.png)
 
-2.7. LA FUENTE DE VOLTAJE DE CD
+2.7. LA FUENTE DE VOLTAJE DE CD, LA FUENTE DE CORRIENTE Y CONVERSIONES DE FUENTE
+
+![Mapas mentales con líneas (2)](https://user-images.githubusercontent.com/94008521/146827822-265a79bc-9bc5-403a-9432-605bedff4eb2.png)
+
+2.8. EL TEOREMA DE SUPERPOSICIÓN 
 
 
 
