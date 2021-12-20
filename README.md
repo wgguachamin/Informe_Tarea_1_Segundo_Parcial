@@ -51,7 +51,9 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 ![Mapa conceptual](https://user-images.githubusercontent.com/94008521/146834512-9cf68c7c-c4d1-498c-be6d-7137d6ac2b2b.png)
 
-2.10. CONVERSIONES DELTA A Y ( A Y) Y Y A DELTA (Y A ) 
+2.10. CONVERSIONES DELTA a Y y DE DELTA a Y.
+
+![Cuadro sinóptico en blanco](https://user-images.githubusercontent.com/94008521/146836297-0236b822-228a-43df-8b45-8be83caff587.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
