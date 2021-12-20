@@ -25,7 +25,17 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 2.3. DIVISORES DE VOLTAJE CON CARGAS RESISTIVAS
 
+![Diagrama de actividades](https://user-images.githubusercontent.com/94008521/146811861-4873d31e-f65d-4b81-a321-f20d9a5fc293.png)
 
+2.4. EFECTO DE CARGA DE UN VOLTÍMETRO
+
+![Ejemplo de diagrama de posesión de cuenta](https://user-images.githubusercontent.com/94008521/146815400-e65e9b4f-8aa8-44b2-8951-9bb3caa89d34.png)
+
+2.5. REDES EN ESCALERA
+
+![Ejemplo de diagrama de posesión de cuenta (1)](https://user-images.githubusercontent.com/94008521/146817260-695aa940-21e7-4aa9-97b9-37f04f9102c7.png)
+
+2.6. EL PUENTE-WHEATSTONE
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
