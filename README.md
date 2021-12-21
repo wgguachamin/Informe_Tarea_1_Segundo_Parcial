@@ -369,6 +369,7 @@ en 60 m Ω, a 119.940 Ω, como se muestra en la figura 7-82. ¿Cuál es el volta
 ![image](https://user-images.githubusercontent.com/93960809/146953113-68faf189-49b1-423b-850e-d23a2671dd3f.png)
 
 
+
 4. VIDEO
 
 5. CONCLUSIONES
