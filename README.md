@@ -368,7 +368,10 @@ SECCIÓN 8–3 Conversiones de fuente
 
 SECCIÓN 8–4 El teorema de superposición
 
-7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69
+
+![image](https://user-images.githubusercontent.com/93415377/146966806-08d16580-3038-40ac-856f-bcaae31f7bfd.png)
+
 
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 
@@ -378,6 +381,9 @@ SECCIÓN 8–4 El teorema de superposición
 ![image](https://user-images.githubusercontent.com/93960809/146960327-9a5c14d6-e953-4103-b0e1-85c7b8e6c9d3.png)
 
 13. Determine el voltaje del punto A al punto B en la figura 8-73.
+
+![image](https://user-images.githubusercontent.com/93415377/146966892-90129ae6-c820-42cb-848f-4a1b7bc77e4a.png)
+
 
 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
 
