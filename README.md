@@ -255,22 +255,6 @@ Puesto que la resistencia es inversamente proporcional al voltaje, la carga de m
 
 Para determinar el voltaje de salida aplicamos las resistencias equivalentes entre R2,R3 y la carga RL aplicando así la formula de divisor de voltaje a fin de encontrar el voltaje de salida. 
 
-31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:
-la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente
-tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el
-efecto en los voltajes de salida si se conecta una carga de 1.0 k Ω a cada toma, una a la vez.
-
-a
-
-33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de
-campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd
-para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores
-con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden
-ser determinados con métodos ya conocidos.
-(a) Encuentre VG y VS (b) Determine I1, I2, ID, e IS (c) Encuentre VDS y VDG
-
-![image](https://user-images.githubusercontent.com/93960809/146946756-1379b4e2-1f20-494d-935b-147ec7b2adde.png)
-
 SECCIÓN 7–4 Efecto de carga de un voltímetro
 
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en
