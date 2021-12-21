@@ -450,6 +450,7 @@ SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆
 
 https://www.youtube.com/watch?v=ACx1FshWn_U
 
+
 5. CONCLUSIONES
 
 - Con referencia a los circuitos serie - paralelo se tiene que para realizar un análisis correcto se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, posterior a esto se puede aplicar los conocimientos antes adquiridos para calcular la resistencia, corriente y voltaje totales. Por otro lado para analizar los divisores de voltaje se debe de tener en cuenta , que estos producen un voltaje de salida que su valor dependerá de la forma en que los empleemos, en otras palabras determinar si el divisor es bipolar o se basa en la corriente de carga y la corriente remanente.
