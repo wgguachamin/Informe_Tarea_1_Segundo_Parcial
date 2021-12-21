@@ -57,126 +57,316 @@ Un circuito en serie-paralelo consiste en combinaciones de trayectorias para cor
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+CAPÍTULO 7
 
+SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 
-Capítulo 8 
+1. Visualice y trace las siguientes combinaciones en serie-paralelo:
 
-SECCIÓN 8–3 Conversiones de fuente 
+     (a) R1 en serie con la combinación en paralelo de R2 y R3
+     
+     ![image](https://user-images.githubusercontent.com/93960809/146940803-ff1533c0-19ad-4d51-b944-7b53a35dd066.png)
+  
+     (b) R1 en paralelo con la combinación en serie de R2 y R3
+     
+     ![image](https://user-images.githubusercontent.com/93960809/146940895-f5255a70-9376-43c9-a631-ce7d29466447.png)
+ 
+     (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros
+cuatro resistores
 
-1. Una fuente de voltaje tiene los valores Vs = 300 V y Rs = 50 Ω. Conviértala en una fuente de corriente equivalente.
+  ![image](https://user-images.githubusercontent.com/93960809/146940984-e860eb81-f7fd-4866-8d5d-d55e702ede42.png)
 
-![image](https://user-images.githubusercontent.com/93415377/146950335-eb7740d1-2fd1-4475-b509-d54f76af6987.png)
+3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
+desde la fuente.
 
+![image](https://user-images.githubusercontent.com/93960809/146941046-b026f3f1-a074-4872-98d9-3f0b4d1d1d17.png)
 
-3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+Para el circuito a) a partir del polo positivo de la fuente se puede observar que R1 esta en serie con las resistencias R2||R3 que se encuentran en paralelo y en serie también con la resistencia R4. Por tanto, RT= R1+( R2||R3)+R4.
 
-![image](https://user-images.githubusercontent.com/93415377/146950625-91cd8f62-b5af-49de-9aeb-aa8784bc1fc3.png)
+Para el circuito b) a partir del polo positivo se puede ver que la resistencia R1 está en serie con las resistencias R2||R3||R4 que se encuentran en paralelo. Por tanto, RT= R1+( R2||R3||R4).
 
+Para el circuito c) a partir del polo positivo se puede ver que la resistencia R1 está en paralelo con las resistencias R2,R3,R4,R5. Pero también se puede observar que las resistencias R2||R3 están en paralelo al igual que R4||R5, pero estas resistencias en paralelo están en serie y son paralelas a R1. Por tanto, RT=R1||[(R2||R3)+( R4||R5)].
 
-5. Una fuente de corriente tiene una I_S de 600 mA y una R_S de 1.2 kΩ. Conviértala en una fuente de voltaje equivalente.
+5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura
+7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 
-![image](https://user-images.githubusercontent.com/93415377/146950701-0bb08713-1e03-4215-a45c-5887e26631dd.png)
+![image](https://user-images.githubusercontent.com/93960809/146941092-4f50f18e-98e6-4a2c-8230-3cc9f6df86d4.png)
 
-SECCIÓN 8–4 El teorema de superposición 
+![image](https://user-images.githubusercontent.com/93960809/146941109-613b67eb-db2d-47a6-97a7-f84202dafe7f.png)
 
-7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+En primer lugar, no se puede identificar los valores de las resistencias debido a que el libro está a blanco y negro por lo que no se identifica los colores de las bandas de las resistencias. Por otro lado, las resistencias R10, R11, R9, R8, R7, R6, R5 están en serie con las resistencias que se encuentran en paralelo (R1+R3) y (R2+R4). Por tanto; RT= R10+R11+R9+R8+R7+R6+R5+[( R1+R3 R2+R4
 
-![image](https://user-images.githubusercontent.com/93415377/146954792-e4521421-cd16-4ab0-97a1-1351894d2b34.png)
+7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse
+externa a la tarjeta.
 
+![image](https://user-images.githubusercontent.com/93960809/146941450-cadc36ee-7aea-41f2-b44a-8dc4043efedc.png)
 
-9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+![image](https://user-images.githubusercontent.com/93960809/146941564-93a26baa-09aa-4e58-bfe6-c43bc5c3d0c4.png)
 
+SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
-![image](https://user-images.githubusercontent.com/93415377/146950874-a2dac0e6-ca86-40b4-83fb-a458d1e6b41c.png)
+9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
+la fuente.
 
+![image](https://user-images.githubusercontent.com/93960809/146941604-d550d0c3-b010-4ff4-b4f8-64b2584f2785.png)
 
+  Figura a)
 
-11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
+![image](https://user-images.githubusercontent.com/93960809/146941690-124cdacb-405a-40c8-a2f2-7b09dca1deed.png)
 
-![image](https://user-images.githubusercontent.com/93415377/146950949-697d1f6c-3f79-4865-99c9-84563a5a76ab.png)
+  Figura b)
+ 
+![image](https://user-images.githubusercontent.com/93960809/146941752-a4c8dfa7-78e5-4554-8aaf-5f06f55f3037.png)
 
+  Figura c)
+  
+![image](https://user-images.githubusercontent.com/93960809/146941830-3070fd34-8dfe-462b-8b41-e84b166cbd0a.png)
 
+Para calcular la resistencia total de cada circuito con respecto a la fuente, se procede a sumar todas las resistencias que se encuentren en serie con la resistencia equivalente de las que se encuentren en paralelo de modo que así se obtenga la resistencia total.  
 
-13. Determine el voltaje del punto A al punto B en la figura 8-73.
+11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada
+caída de voltaje.
 
-![image](https://user-images.githubusercontent.com/93415377/146954384-d7c31816-ce01-4b9b-b76f-cc870c611fdf.png)
+![image](https://user-images.githubusercontent.com/93960809/146941920-d550f118-ed03-42e6-8eca-eededc27ddd5.png)
 
+Circuito a)
 
-15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+![image](https://user-images.githubusercontent.com/93960809/146942062-fd74f70d-fc3d-4194-a82b-2185ca5ae35b.png)
 
-![image](https://user-images.githubusercontent.com/93415377/146951110-8e9c42a6-fb74-4df6-a46e-fb22e08d2043.png)
+![image](https://user-images.githubusercontent.com/93960809/146942091-a833c906-dabd-45c5-8386-b7636b5ad80d.png)
 
+![image](https://user-images.githubusercontent.com/93960809/146942157-1ee60bb4-9f3d-471c-a670-2583553320c5.png)
 
-SECCIÓN 8–5 Teorema de Thevenin
+Circuito b)
 
-17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
+![image](https://user-images.githubusercontent.com/93960809/146942252-5dbdc7e1-2692-40dd-b99c-fa1f975e3d80.png)
 
+![image](https://user-images.githubusercontent.com/93960809/146942267-322df5a9-959f-4736-b894-3084d5bb4c19.png)
 
+![image](https://user-images.githubusercontent.com/93960809/146942284-fe7036bc-7862-4f96-b11e-77178273d449.png)
 
-19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+Circuito c)
 
-![image](https://user-images.githubusercontent.com/93415377/146951236-95a2905b-c590-4bc7-a1e5-d4db061f8d8c.png)
+![image](https://user-images.githubusercontent.com/93960809/146942340-86c86775-a519-4157-92c0-a591c6804e88.png)
 
+![image](https://user-images.githubusercontent.com/93960809/146942379-4557bd1d-fec0-4f78-a1eb-57c4f1deb706.png)
 
+![image](https://user-images.githubusercontent.com/93960809/146942402-429fa732-2d4b-4148-987b-8e622c4c1f85.png)
 
-21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81
+Para encontrar la corriente que pasa a través de cada resistor primero, gracias al dato de resistencia total del ejercicio 9 vamos a obtener el valor de corriente total mediante la ley de ohm y luego se puede aplicar la fórmula para divisor de corriente y divisor de voltaje o ley de ohm según sea el caso. 
 
+13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
 
-![image](https://user-images.githubusercontent.com/93415377/146951347-9fc9ea06-c099-4741-928c-f3a275ec542c.png)
+![image](https://user-images.githubusercontent.com/93960809/146942494-dda0d178-13b5-4c08-8449-f372aa875ce4.png)
 
+Si SW1 está uniendo el circuito y SW2 no:
 
-SECCIÓN 8–6 Teorema de Norton 
+![image](https://user-images.githubusercontent.com/93960809/146942639-31b08dd4-bf94-4008-aafa-b7092a110fa7.png)
 
-23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL. 
 
-![image](https://user-images.githubusercontent.com/93415377/146951459-c2314445-8273-41f3-a213-e1a4af730075.png)
+Si SW1 está uniendo el circuito y SW2 también:
 
+![image](https://user-images.githubusercontent.com/93960809/146942751-0ce9fa1e-7015-44dc-a010-c05db370b8ab.png)
 
-![image](https://user-images.githubusercontent.com/93415377/146951526-fd2acac8-44c3-40a6-9903-9aa20bfafbf9.png)
+Si SW2 está uniendo el circuito y SW1 no: 
 
+![image](https://user-images.githubusercontent.com/93960809/146942815-3bc62bcb-cb82-4678-b4b2-2c8236919e91.png)
 
+Para determinar los valores de resistencia según la posición de los interruptores, se va observando si las resistencias quedan en serie o paralelo de forma que ya conociendo eso se pueda calcular la resistencia total mediante una suma o realizando resistencias equivalentes.
 
-25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78. 
+15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
+![image](https://user-images.githubusercontent.com/93960809/146943027-2f1c4923-17a1-4d62-a1b6-b7483ec0e35a.png)
 
-![image](https://user-images.githubusercontent.com/93415377/146951667-9b97b217-355f-4bdc-a836-f2acb4c6d48f.png)
+Para el nodo A)
 
+Para el nodo B)
 
-![image](https://user-images.githubusercontent.com/93415377/146951741-b33aeae7-e9e0-410d-b23e-ac419538bc68.png)
+Para el nodo C)
 
+Para el nodo D)
 
+![image](https://user-images.githubusercontent.com/93960809/146954143-b4618eda-ccba-4b18-9f37-f50e9806c559.png)
 
-27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL
+Para calcular el voltaje en cada nodo respecto a tierra primero se saca la resistencia total y con ese valor ya se procede a calcular el voltaje tomando en cuenta las resistencias que están presentes en las trayectorias del nodo respecto a tierra.
 
+17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente
+un medidor entre los extremos del resistor?
 
-![image](https://user-images.githubusercontent.com/93415377/146951825-5bbc2944-e916-4acd-926b-7edb1b0f386b.png)
+![image](https://user-images.githubusercontent.com/93960809/146943497-a51c53b4-b507-4aa4-b9d1-ad023f65628e.png)
 
+Para determinar el voltaje en R2 sin colocar un medidor directamente a sus extremos, lo que haría es primero sacar la resistencia total del circuito para con ello encontrar el valor de la corriente mediante la ley de ohm. Seguido a esto puedo aplicar igualmente la ley de ohm para determinar el voltaje en dicha resistencia. O también se puede aplicar la fórmula del divisor de voltaje para hallar ese valor.
 
-29. Aplique el teorema de Norton al circuito de la figura 8-84. 
+19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
-![image](https://user-images.githubusercontent.com/93415377/146951899-375dd856-bbcb-40a1-b3b6-7636e0d218fd.png)
+![image](https://user-images.githubusercontent.com/93960809/146943687-029aef96-bf0b-4806-84e7-1a3311ea3344.png)
 
+![image](https://user-images.githubusercontent.com/93960809/146943716-1db232b4-1bf7-49b5-81d4-c3b6e12edd3a.png)
 
-SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+Para hallar la resistencia total primero se suman las resistencias que se encuentran en serie para posterior a eso calcular la resistencia equivalente de las ramas que se encuentran en paralelo. 
 
-31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
 
-![image](https://user-images.githubusercontent.com/93415377/146952207-b0307ff0-b2a4-433d-820e-eb822481b3ed.png)
+![image](https://user-images.githubusercontent.com/93960809/146943959-c8b60619-3536-4a47-8ed0-2de407d27b02.png)
 
+![image](https://user-images.githubusercontent.com/93960809/146944257-d969fa1a-5d4b-42b0-bce6-5608773095ed.png)
 
-33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+Para encontrar el valor de la resistencia primero encontramos el valor de la resistencia total mediante la ley de ohm. Una vez encontrado el valor de la resistencia R2 calculamos la potencia mediante la formula que dice que potencia es igual a la corriente elevado al cuadrado por su resistencia específica. 
 
-![image](https://user-images.githubusercontent.com/93415377/146952159-0417845f-c88e-4c69-8666-8cf1dc93b51f.png)
+23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:
+AB, BC y CD.
 
+![image](https://user-images.githubusercontent.com/93960809/146944314-8b8aeaf2-92b5-4c17-91af-a216b1573bf1.png)
 
-SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆
+Para el nodo AB:
 
+![image](https://user-images.githubusercontent.com/93960809/146944416-c029b2d6-9a9d-4c25-8e61-4ea9f59b18aa.png)
 
-35. En la figura 8-89, convierta cada red Y en una red delta.
+Para el nodo BC:
 
-![image](https://user-images.githubusercontent.com/93415377/146952047-3cfc8303-343f-45ce-be2b-498d0217d110.png)
+![image](https://user-images.githubusercontent.com/93960809/146944462-961fd9fd-a840-49ba-9951-21148c361d12.png)
 
+Para el nodo CD:
 
+![image](https://user-images.githubusercontent.com/93960809/146944503-09e3603c-420e-4ea5-aa23-724c96f09164.png)
+
+Para calcular el valor de las resistencias entre nodos, dependiendo del caso, si hay resistencias en serie se las tiene que sumar y si hay resistencias en paralelo se debe obtener la resistencia equivalente, de este modo se obtendrá la resistencia total entre los nodos especificados. 
+
+SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
+
+25. Un divisor de voltaje está compuesto por dos resistores de 56 k Ω y una fuente de 15 V. Calcule el voltaje
+de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 M Ω a
+la salida?
+
+![image](https://user-images.githubusercontent.com/93960809/146944728-a880455b-770d-45cc-830c-e3568e5cd58b.png)
+
+Para calcular el valor del voltaje sin carga únicamente aplicamos la formula del divisor de voltaje sin aumentar una resistencia RL. Para el caso con carga, se realizar una resistencia equivalente para aplicar así mismo la formula del divisor de voltaje. 
+
+27. ¿Cuál de dos cargas, una de 10 Ω y otra de 47 k Ω, provocará una disminución más pequeña en el voltaje
+de salida de un divisor de voltaje dado?
+
+Puesto que la resistencia es inversamente proporcional al voltaje, la carga de mayor resistencia, es decir, 47 kΩ provocará una disminución de voltaje de salida.
+
+29. En la figura 7-74, determine el voltaje de salida con una carga de 33 k Ω conectada entre A y B.
+
+![image](https://user-images.githubusercontent.com/93960809/146945301-747cc900-864a-4478-b12b-3b3b6ca22778.png)
+
+![image](https://user-images.githubusercontent.com/93960809/146945961-6b811b62-ce2e-4588-a4d0-7f5c38d4472c.png)
+
+Para determinar el voltaje de salida aplicamos las resistencias equivalentes entre R2,R3 y la carga RL aplicando así la formula de divisor de voltaje a fin de encontrar el voltaje de salida. 
+
+31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:
+la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente
+tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el
+efecto en los voltajes de salida si se conecta una carga de 1.0 k Ω a cada toma, una a la vez.
+
+a
+
+33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de
+campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd
+para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores
+con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden
+ser determinados con métodos ya conocidos.
+(a) Encuentre VG y VS (b) Determine I1, I2, ID, e IS (c) Encuentre VDS y VDG
+
+![image](https://user-images.githubusercontent.com/93960809/146946756-1379b4e2-1f20-494d-935b-147ec7b2adde.png)
+
+SECCIÓN 7–4 Efecto de carga de un voltímetro
+
+35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en
+un circuito?
+
+(a) 1 V (b) 10 V (c) 100 V (d) 1000 V
+
+Un voltímetro presentará la mínima carga que haya en un circuito cuando este tenga el intervalo de 1000V ya que el efecto de carga del voltímetro reduce el voltaje en una cantidad notable y mientras más alta es la resistencia entre la cual se mide el voltaje, más grande es el efecto de carga.
+
+37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura
+7-62(a).
+
+(a) ¿Qué intervalo se deberá utilizar?
+
+Entre la fuente de voltaje de 5v y la R4.
+
+(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+La reduccioón es de aproximadamente 0.
+
+SECCIÓN 7–5 Redes en escalera
+
+39. Para el circuito mostrado en la figura 7-77, calcule:
+
+(a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente
+
+(c) La corriente a través del resistor de 910 A (d) El voltaje desde el punto A hasta el punto B
+
+![image](https://user-images.githubusercontent.com/93960809/146947888-c0b3decd-f84a-412b-b7c0-191e6ac48a03.png)
+
+(a) La resistencia total entre las terminales de la fuente
+
+![image](https://user-images.githubusercontent.com/93960809/146948183-1bf80082-0cdb-4cdd-bbb7-5bbdfba0e276.png)
+
+(b) La corriente total suministrada por la fuente
+
+![image](https://user-images.githubusercontent.com/93960809/146948683-f7b36d11-00ac-4cff-91a0-e0aa2f1f98d2.png)
+
+(c) La corriente a través del resistor de 910 A
+
+![image](https://user-images.githubusercontent.com/93960809/146948849-9bdc195d-82e6-4d20-813d-9255768b1ed9.png)
+
+(d) El voltaje desde el punto A hasta el punto B
+
+![image](https://user-images.githubusercontent.com/93960809/146948956-a7c057dd-70ee-4134-9b16-d36b5faa7afd.png)
+
+Para hallar todos los datos que pide el ejercicio, lo principal es identificar las conexiones en serie y paralelo de las resistencias a fin de poder sumarlas o sacar las resistencias equivalentes para así encontrar el valor de resistencia total. Luego para cada caso, dependiendo de lo que requiera el ejercicio se aplica la ley de ohm.
+
+41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo,
+calcule la corriente en cada rama con 10 V entre A y B.
+
+![image](https://user-images.githubusercontent.com/93960809/146949446-de0db9d0-f0d1-4827-a3a7-1042db5c024c.png)
+
+![image](https://user-images.githubusercontent.com/93960809/146949901-5d79119d-64a5-4a87-b6be-469924098b12.png)
+
+![image](https://user-images.githubusercontent.com/93960809/146949943-90db03cc-9664-4044-82ec-55212791c6bd.png)
+
+Para determinar la resistencia total, encontramos primero resistencias equivalentes en las ramas conectadas en paralelo, se encuentra la resistencia total a fin de mediante la ley de ohm encontrar las corrientes. 
+
+43. Determine IT y VSALIDA en la figura 7-80.
+
+![image](https://user-images.githubusercontent.com/93960809/146950194-2cd826f2-51de-4601-8a8c-b4e9c60dfd11.png)
+
+![image](https://user-images.githubusercontent.com/93960809/146951051-e60db9b4-d617-4049-9326-c607d05144e1.png)
+
+![image](https://user-images.githubusercontent.com/93960809/146950965-792aa4f0-0617-4501-abc4-923aa872e9b6.png)
+
+Para determinar la corriente total y el voltaje de salida, primero se halla el valor de la resistencia total mediante la suma de las mismas y por resistencias equivalentes, una vez encontrado ese valor se procede a usar la ley de ohm para encontrar tanto la corriente total como el voltaje. 
+
+45. Repita el problema 44 para las siguientes condiciones
+
+![image](https://user-images.githubusercontent.com/93960809/146950338-19d87671-887d-49c1-ab2b-cc24bad4c5d5.png)
+
+(a) SW3 y SW4 conectados a _12 V, SW1 y SW2 a tierra
+
+![image](https://user-images.githubusercontent.com/93960809/146952576-de9e30be-ddbb-48d8-809d-028141eb34f2.png)
+
+
+(b) SW3 y SW1 conectados a _12 V, SW2 y SW4 a tierra
+
+![image](https://user-images.githubusercontent.com/93960809/146952614-4baa45c4-7ddf-4062-b4a5-01b872200c10.png)
+
+(c) Todos los interruptores conectados a _12 V
+
+![image](https://user-images.githubusercontent.com/93960809/146952639-098ee0d7-86de-4371-909f-bab342c5eb9f.png)
+
+SECCIÓN 7–6 El puente Wheatstone
+
+47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de
+120,000 Ω para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión
+incrementan su resistencia en 60 m Ω, a 120,060 Ω, y los medidores a compresión disminuyen su resistencia
+en 60 m Ω, a 119.940 Ω, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+
+![image](https://user-images.githubusercontent.com/93960809/146950378-0102791d-3c44-4a14-aff2-883b33e049a5.png)
+
+![image](https://user-images.githubusercontent.com/93960809/146953113-68faf189-49b1-423b-850e-d23a2671dd3f.png)
 
 
 4. VIDEO
