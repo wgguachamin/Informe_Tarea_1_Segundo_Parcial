@@ -408,6 +408,9 @@ SECCIÓN 8–6 Teorema de Norton
 
 ![image](https://user-images.githubusercontent.com/93960809/146960582-33d24fea-7f6d-4fca-8f6f-df079446d5eb.png)
 
+![image](https://user-images.githubusercontent.com/93415377/146968952-10af43fe-9986-49e6-9b53-3d01777e2dd6.png)
+
+
 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 
 
