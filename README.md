@@ -361,6 +361,7 @@ SECCIÓN 8–3 Conversiones de fuente
 ![image](https://user-images.githubusercontent.com/93960809/146959841-39ac8a25-4233-4ac5-861e-8648f1abeed9.png)
 
 3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
 ![image](https://user-images.githubusercontent.com/93960809/146959981-95f9ddd4-59b3-4c86-85c2-4fa453c593be.png)
 
 5. Una fuente de corriente tiene una I_S de 600 mA y una R_S de 1.2 kΩ. Conviértala en una fuente de voltaje equivalente.
@@ -443,6 +444,8 @@ SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆
 
 
 4. VIDEO
+
+https://www.youtube.com/watch?v=ACx1FshWn_U
 
 5. CONCLUSIONES
 
