@@ -394,6 +394,10 @@ SECCIÓN 8–5 Teorema de Thevenin
 
 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
 
+
+![image](https://user-images.githubusercontent.com/93415377/147271216-8dbe68d1-19a4-47a4-9d71-a86c53a118f8.png)
+
+
 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
 
 ![image](https://user-images.githubusercontent.com/93960809/146960501-cfa5e2fe-2c4b-4be1-b226-6e11a350c523.png)
